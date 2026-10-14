@@ -6,6 +6,9 @@ This project compares three deep learning approaches for facial emotion recognit
 - EfficientNet-B0 Transfer Learning
 - EfficientNet-B0 Partial Fine-Tuning
 
+# Google Colab
+- https://colab.research.google.com/drive/1NOGs0Sc-tafUrftbMH2OcXj5uLv7eSpY?usp=sharing
+
 ## Dataset
 
 FER2013 contains 48×48 grayscale facial images classified into 7 emotions:
