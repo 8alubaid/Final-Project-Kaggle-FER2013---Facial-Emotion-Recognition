@@ -1,4 +1,4 @@
-# SDAIA Academy - FER2013 Facial Emotion Recognition / Instructor: Rand Bernawi
+# SDAIA Academy - FER2013 Facial Emotion Recognition / Instructor: Rand A. Barnawi
 
 This project compares three deep learning approaches for facial emotion recognition using the FER2013 dataset:
 
