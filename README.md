@@ -6,7 +6,7 @@ This project compares three deep learning approaches for facial emotion recognit
 - EfficientNet-B0 Transfer Learning
 - EfficientNet-B0 Partial Fine-Tuning
 
-# Google Colab
+## Google Colab
 - https://colab.research.google.com/drive/1NOGs0Sc-tafUrftbMH2OcXj5uLv7eSpY?usp=sharing
 
 ## Dataset
@@ -57,3 +57,6 @@ The Custom CNN achieved the highest test accuracy in this experiment.
 - Matplotlib
 - Scikit-learn
 - Google Colab
+
+## SDAIA Academy - GitHub
+- https://github.com/SDAIAAcademy
